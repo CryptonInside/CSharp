@@ -1,0 +1,16 @@
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\bin\Debug\net5.0\LinqObjects.exe
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\bin\Debug\net5.0\LinqObjects.deps.json
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\bin\Debug\net5.0\LinqObjects.runtimeconfig.json
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\bin\Debug\net5.0\LinqObjects.runtimeconfig.dev.json
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\bin\Debug\net5.0\LinqObjects.dll
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\bin\Debug\net5.0\ref\LinqObjects.dll
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\bin\Debug\net5.0\LinqObjects.pdb
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.csproj.AssemblyReference.cache
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.AssemblyInfoInputs.cache
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.AssemblyInfo.cs
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.csproj.CoreCompileInputs.cache
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.dll
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\ref\LinqObjects.dll
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.pdb
+C:\Users\Марк Аврелий\Downloads\9785977568272\9785977568272\Source\Chapter10\LinqObjects\obj\Debug\net5.0\LinqObjects.genruntimeconfig.cache
